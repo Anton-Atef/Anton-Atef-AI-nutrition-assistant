@@ -1,0 +1,19 @@
+# Use a modern torch that has wheels for Python 3.13/3.14
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit>=1.39.0,<1.42
+torch>=2.6.0
+torchvision>=0.21.0
+timm>=1.0.11
+transformers>=4.44.0
+accelerate>=0.33.0
+Pillow>=10.0.0
+numpy>=1.26.0
+pandas>=2.0.0
+plotly>=5.20.0
+opencv-python-headless>=4.9.0
+easyocr>=1.7.1
+openpyxl>=3.1.2
+SpeechRecognition>=3.10.0
+huggingface_hub>=0.24.0
+albumentations>=1.4.0
