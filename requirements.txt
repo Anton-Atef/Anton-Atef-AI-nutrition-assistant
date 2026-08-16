@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit==1.39.0
+torch==2.3.1
+torchvision==0.18.1
+timm==1.0.11
+transformers==4.44.2
+accelerate
+Pillow
+numpy==1.26.4
+pandas
+plotly
+opencv-python-headless
+easyocr
+openpyxl
+SpeechRecognition
+huggingface_hub
+albumentations
